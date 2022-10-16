@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Husuki V3 🚀</h1>
+<h1 align="center">🚀 Husuki  🚀</h1>
 <em><h5 align="center">(Language: Python, Shell)</h5></em>
   
 <p align="center">Vui lòng không tấn công các trang web liên quan tới chính phủ.</p>
